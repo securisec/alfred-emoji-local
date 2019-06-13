@@ -1,0 +1,17 @@
+{
+  "name": "alfred-emoji-local",
+  "version": "1.0.0",
+  "description": "Find emojis/short codes and codepoint locally using fuzzy search",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "keywords": ["alfred", "alfred-emoji", "emoji"],
+  "author": "Hapsida @securisec",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.8.0",
+    "fuzzy-search": "^3.0.1"
+  }
+}
