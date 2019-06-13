@@ -1,0 +1,8 @@
+deploy:
+  provider: npm
+  email: securisecdev@gmail.com
+  on:
+    tags: true
+    repo: securisec/alfred-emoji-local
+  api_key:
+    secure: HSaZgQnneRT0TugU/uCag0uaxHcoXl0aqlPJQg+A7fjSlqFhT855LVjCC759Np9WIdW+RClozOdkpu4aebbC8+31r0CcLFCYUmfcA9HE6cAylR3wnI8iSdARy8yvKq8pMD0pf8Blpt5sXIh5KcZMIjnF8DcdPM3XOgMfl7GGTnJiTaLuGMi2a+AMF9ySaUkMB+4sOhSpvj5NWQDUUWWAxGxBhjZx4sBgzslwQmMsZccXAbz4kDZMXSIFljslj8YU0O3bNkuEyzHCl5DshyKrsvrLDiFDxpzsPTKOwXvjUrppigMxH+Q1jsfzlusoYtFiX8qqjXR2sLBLwClSMYRVd+FBM3wD8coMUOu7klPao3MYJ0lTtf+WRq4kn65bs6t7tqukd/Sjj9iMqcjxcrfN+IaGz6arFZ8nqpdveT1RLUKYnOBmI/kUpHp3DsVuWVWqL5o4mvxRof8uimG6hylvXKTKoj2N5C3AAZiUrX3c8idCeQ4VISs/VDt9RhsKK3J6cGzeamz5durnwS0Lkqq51rR/pp5dIycQAPP6VBRfHbI1szOTWTluV1iPoiD1SHUjfW8Ni+x7+w4V/gmeixZIhN+B7UFqpEUc11idEfFy5yCB33l+1UhG0hqsh/mE0fQnUkHXes2mXdC4Ey9WFkTVxseLghWvcIntj0VnurNCARY=

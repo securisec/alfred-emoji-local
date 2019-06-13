@@ -13,7 +13,7 @@ let matches = search.search(alfy.input).map((m) => {
 		mods         : {
 			cmd : {
 				valid : true,
-				arg   : m.hexCode
+				arg   : m.hexCode.trim()
 			},
 			alt : {
 				valid : true,
