@@ -1,5 +1,5 @@
 <div align="center">  
-    <img src="./ss.png" width="700">
+    <img src="https://raw.githubusercontent.com/securisec/alfred-emoji-local/master/logo.png" width="700">
 </div>
 
 # alfred-emoji-local
